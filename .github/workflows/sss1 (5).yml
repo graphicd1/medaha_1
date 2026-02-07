@@ -1,4 +1,4 @@
-name: Ultra Fast - RDP First + Browser Kernels win22
+name: Ultra Fast - RDP  + Browser  win22
 
 on:
   workflow_dispatch:
