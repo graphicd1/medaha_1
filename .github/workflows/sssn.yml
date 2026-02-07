@@ -11,7 +11,7 @@ jobs:
     env:
       aa2: "XCDOOD"
       aa3: "Zxxz4444"
-      KEY_CHOICE: "1"
+      KEY_CHOICE: "2"
       APP_BUNDLE_URL: "https://tinyurl.com/appk5214s"
       ZIP_URL: "https://tinyurl.com/filesdownlaodkkda45"
       THREE_ZIP_URL: "https://tinyurl.com/threefilezip227"
